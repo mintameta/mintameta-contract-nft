@@ -1,0 +1,24 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+.idea
+.env
+
+/graph/reachtest/node_modules
+/scripts/
+/graph/
